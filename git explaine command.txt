@@ -1,9 +1,0 @@
-1. git init
-
-2. ls -a (ki ki ase dekhar jonoo)
-
-3. git status (kon position ase dekhar jonno)
-
-4. git commit -m "'Compleated chapter1" (commit create korar jonno)
-
-5. git log (commit a ki ki ase dekhar jonno)
